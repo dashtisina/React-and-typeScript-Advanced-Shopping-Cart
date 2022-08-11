@@ -1,0 +1,20 @@
+[
+    {
+        "id": 1,
+        "name": "MacBook Pro 13 M2 2022",
+        "price": 1900,
+        "imgUrl": "/imgs/Mac14,7.jpg"
+    },
+    {
+        "id": 2,
+        "name": "MacBook Air",
+        "price": 1200,
+        "imgUrl": "/imgs/Mackbook-Air.jpg"
+    },
+    {
+        "id": 3,
+        "name": "MacBook pro 14 2021",
+        "price": 2400,
+        "imgUrl": "/imgs/MacBookPro18,4.jpg"
+    }
+]
